@@ -16,7 +16,7 @@
 
   	o	Letter of Recommendation (LOR) strength (out of 5)
   
- 		o	Research experience (either 0 or 1)
+ o	Research experience (either 0 or 1)
 
 *   OUTPUTS (dependent variables)
 
